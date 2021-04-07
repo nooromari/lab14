@@ -1,0 +1,1 @@
+psql -f data/seed.sql -d lab14
